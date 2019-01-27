@@ -6,7 +6,7 @@ For this assignment, you'll create some initial plans for your project.
 
 ## Submission Instructions
 
-### Wireframes
+### Wireframes     
 
 <ul>
   <li>https://github.com/jeffsheary/liftoff-assignments/blob/46535b5c5b9133f3e6b729356e80de75dd5916f0/IMG_0432.jpg</li>
