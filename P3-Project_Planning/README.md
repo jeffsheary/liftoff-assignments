@@ -24,4 +24,4 @@ https://www.pivotaltracker.com/n/projects/2240252
 
 ### Project Repo Link
 
-https://github.com/jeffsheary/Pet-Adoption-App
+https://github.com/jeffsheary/Pet_Adoption_App
